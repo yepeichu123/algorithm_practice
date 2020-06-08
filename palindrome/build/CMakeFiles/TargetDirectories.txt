@@ -1,0 +1,3 @@
+/home/ypc/xiaoc/code/algorithm_practice/palindrome/build/CMakeFiles/edit_cache.dir
+/home/ypc/xiaoc/code/algorithm_practice/palindrome/build/CMakeFiles/rebuild_cache.dir
+/home/ypc/xiaoc/code/algorithm_practice/palindrome/build/CMakeFiles/palindrome.dir
